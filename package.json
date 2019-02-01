@@ -1,0 +1,24 @@
+{
+  "name": "booksearch",
+  "version": "1.0.0",
+  "description": "Book Search HW",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherriefaylin/booksearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherriefaylin/booksearch/issues"
+  },
+  "homepage": "https://github.com/sherriefaylin/booksearch#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.7.0"
+  }
+}
